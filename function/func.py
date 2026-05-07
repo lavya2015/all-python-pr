@@ -42,27 +42,17 @@
 #     print("hello,",name)
 
 #     greet_name("lavya")
-# greet_name("surya")
+# # greet_name("surya")
 
 
-# def find_max(a,b):
-#     return a if a > b else b
-# print(find_max(50,9))
+# # def find_max(a,b):
+# #     return a if a > b else b
+# # print(find_max(50,9))
 
 
-def greet_name(name):
-    print("Hello ",name)
-greet_name("Lavya")
-
-
-
-
-
-
-
-
-
-
+# def greet_name(name):
+#     print("Hello ",name)
+# greet_name("Lavya")
 
 
 
